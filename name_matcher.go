@@ -1,4 +1,4 @@
-package wildcard
+package filematcher
 
 import (
 	"fmt"

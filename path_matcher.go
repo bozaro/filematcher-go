@@ -1,4 +1,4 @@
-package wildcard
+package filematcher
 
 type PathMatcher interface {
 	CreateChild(name string, dir bool) PathMatcher
